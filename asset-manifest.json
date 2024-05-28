@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/professionalwebsite/static/css/main.738802d5.css",
+    "main.js": "/professionalwebsite/static/js/main.50bcbcb2.js",
+    "static/js/453.1407b060.chunk.js": "/professionalwebsite/static/js/453.1407b060.chunk.js",
+    "static/media/goals.png": "/professionalwebsite/static/media/goals.eec5f325685bc5979680.png",
+    "static/media/interests.png": "/professionalwebsite/static/media/interests.3f5663eb30a7a71b7510.png",
+    "static/media/github.png": "/professionalwebsite/static/media/github.f3d873d71aa989badfd2.png",
+    "static/media/man.png": "/professionalwebsite/static/media/man.e5822336f5f0e9946875.png",
+    "static/media/background.png": "/professionalwebsite/static/media/background.d76972ebbe82dc9b15e5.png",
+    "static/media/linkedin.png": "/professionalwebsite/static/media/linkedin.d21b834035baa551e886.png",
+    "static/media/graduate-hat.png": "/professionalwebsite/static/media/graduate-hat.5b9fc30710c641442506.png",
+    "static/media/gmail.png": "/professionalwebsite/static/media/gmail.a2f2146f929409405da0.png",
+    "index.html": "/professionalwebsite/index.html",
+    "main.738802d5.css.map": "/professionalwebsite/static/css/main.738802d5.css.map",
+    "main.50bcbcb2.js.map": "/professionalwebsite/static/js/main.50bcbcb2.js.map",
+    "453.1407b060.chunk.js.map": "/professionalwebsite/static/js/453.1407b060.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.738802d5.css",
+    "static/js/main.50bcbcb2.js"
+  ]
+}
