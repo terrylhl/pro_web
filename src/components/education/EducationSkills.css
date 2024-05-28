@@ -1,0 +1,112 @@
+
+.education-skills {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #fff;
+    padding: 4rem 2rem;
+    text-align: center;
+}
+
+h3 {
+    font-family: "Poetsen One" , sans-serif;
+}
+
+.education-skills-content {
+    max-width: 800px;
+    width: 100%;
+}
+
+.education-skills-title {
+    font-size: 2.5rem;
+    margin-bottom: 2rem;
+    color: #333;
+}
+
+.education, .skills {
+    margin-bottom: 2rem;
+}
+
+h3 {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+}
+
+.education-list, .skills-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+.skills-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 80px;
+}
+.skills-list li {
+    flex-shrink: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+    box-sizing: border-box;
+    transition: 0.5s;
+    padding: 10px;
+}
+.skills-list li:hover {
+    transform: translateY(-20px);
+}
+.skills-list img {
+    width: 100px;
+}
+
+.education-item, .skills-item {
+    background-color: #f9f9f9;
+    padding: 1.5rem;
+    margin-bottom: 1rem;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: left;
+}
+
+.education-item:hover {
+    transform: scale(1.1, 1.1);
+}
+
+.skills-item:hover {
+    transform: scale(1.1, 1.1);
+}
+
+h4 {
+    margin: 0 0 0.5rem 0;
+    font-size: 1.5rem;
+    color: #333;
+}
+
+p {
+    margin: 0.5rem 0;
+    font-size: 1rem;
+    color: #666;
+}
+
+@media (min-width: 768px) {
+    .education-skills {
+        text-align: left;
+    }
+
+    .education-skills-title {
+        font-size: 3rem;
+    }
+
+    h3 {
+        font-size: 2.5rem;
+    }
+
+    h4 {
+        font-size: 1.8rem;
+    }
+
+    p {
+        font-size: 1.2rem;
+    }
+}
